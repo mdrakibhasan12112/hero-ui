@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Learn JavaScript Basics",
+    "description": "Cover variables, functions, arrays, and objects",
+    "status": "completed",
+    "priority": "high",
+    "dueDate": "2026-04-20"
+  },
+  {
+    "id": 2,
+    "title": "Practice React Components",
+    "description": "Build reusable UI components",
+    "status": "in-progress",
+    "priority": "high",
+    "dueDate": "2026-04-25"
+  },
+  {
+    "id": 3,
+    "title": "Learn Next.js Data Fetching",
+    "description": "Understand SSR, SSG, and CSR",
+    "status": "pending",
+    "priority": "medium",
+    "dueDate": "2026-04-28"
+  },
+  {
+    "id": 4,
+    "title": "Build Portfolio Website",
+    "description": "Create personal portfolio using Next.js and Tailwind",
+    "status": "pending",
+    "priority": "high",
+    "dueDate": "2026-05-05"
+  },
+  {
+    "id": 5,
+    "title": "API Integration Practice",
+    "description": "Fetch and display data from public APIs",
+    "status": "in-progress",
+    "priority": "medium",
+    "dueDate": "2026-04-30"
+  },
+  {
+    "id": 6,
+    "title": "Learn Git & GitHub",
+    "description": "Version control and project management",
+    "status": "completed",
+    "priority": "low",
+    "dueDate": "2026-04-15"
+  }
+]
